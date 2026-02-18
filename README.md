@@ -36,3 +36,5 @@ WalletConnect implementation for HCS-3 recursion workflows.
 - Website: [hol.org](https://hol.org)
 - X: [@kantorcodes](https://x.com/kantorcodes)
 - GitHub: [@kantorcodes](https://github.com/kantorcodes)
+
+<!-- profile-readme-refresh: 2026-02-18 -->
