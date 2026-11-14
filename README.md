@@ -1,6 +1,7 @@
 # Michael Kantor
 
-President of [Hashgraph Online](https://github.com/hashgraph-online) and Co-Creator of Hashinals.  
+President of [HOL](https://hol.org), TSC Member of Hiero and Agent Name Service. I help accelerate the adoption of open-source specifications, SDKs and tools to help secure the new agentic internet. Specifications I have co-authored have generated 38m+. transactions. 
+
 I build HOL Guard, Hiero standards, and open-source tooling for AI agents.
 
 ## Core focus
