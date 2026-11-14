@@ -2,7 +2,16 @@
 
 President of [HOL](https://hol.org), TSC Member of Hiero and Agent Name Service. I help accelerate the adoption of open-source specifications, SDKs and tools to help secure the new agentic internet. Specifications I have co-authored have generated 38m+. transactions. 
 
-I build HOL Guard, Hiero standards, and open-source tooling for AI agents.
+## Preamble 
+
+The internet is undergoing the largest acceleration since the introduction of cloud computing. Papers estimate that one day soon we may have billions if not trillions of ai agents running on devices. Likely every major organization on the planet will have entire intranets of agents (private registries) with employees operating 10+ agents. While exciting, this level of growth would be unprecedented and the internet is not prepared for it. Many share the same questions: 
+
+- What will security look like? How do I know I am talking to a verified agent and not a malicious actor? 
+- How will this scale and where is the compute coming from? 
+- What will secure communication and privacy look like in this new world? 
+- How will we purchase things and how does that happen safely? 
+
+In order to answer these questions, HOL was established as a standards organization. We focus on problem areas that can be worked on today and have lasting impact tomorrow. 
 
 ## Core focus
 
