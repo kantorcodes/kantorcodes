@@ -11,7 +11,7 @@ The internet is undergoing the largest acceleration since the introduction of cl
 - What will secure communication and privacy look like in this new world? 
 - How will we purchase things and how does that happen safely? 
 
-In order to answer these questions, HOL was established as a standards organization. We focus on problem areas that can be worked on today and have lasting impact tomorrow. 
+In order to answer these questions, [HOL](https://hol.org) was established as a standards organization. We focus on problem areas that can be worked on today and have lasting impact tomorrow. If you share these a similar ethos and would like to help secure the Agentic Internet, please reach out: https://hol.org/contact - we would love to chat. 
 
 ## Core focus
 
